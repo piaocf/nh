@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/booster-labs/rocket-booster-template.git"
+    "url": "git+https://github.com/culturecloud/nhentai-proxy.git"
   },
   "keywords": [
     "nhentai",
@@ -29,7 +29,7 @@
     "workers"
   ],
   "bugs": {
-    "url": "https://github.com/booster-labs/rocket-booster-template/issues"
+    "url": "https://github.com/culturecloud/nhentai-proxy/issues"
   },
-  "homepage": "https://github.com/booster-labs/rocket-booster-template#readme"
+  "homepage": "https://github.com/culturecloud/nhentai-proxy#readme"
 }
