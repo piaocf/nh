@@ -1,0 +1,35 @@
+{
+  "private": true,
+  "name": "nhentai-proxy",
+  "version": "1.0.0",
+  "description": "Proxy for nHentai.net made using Cloudflare Workers and Rocket Booster.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint --fix src/* --ext .js"
+  },
+  "author": "RedoX <pseudokawaii@pm.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.29.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4"
+  },
+  "dependencies": {
+    "rocket-booster": "^1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/booster-labs/rocket-booster-template.git"
+  },
+  "keywords": [
+    "nhentai",
+    "proxy",
+    "cloudflare",
+    "workers"
+  ],
+  "bugs": {
+    "url": "https://github.com/booster-labs/rocket-booster-template/issues"
+  },
+  "homepage": "https://github.com/booster-labs/rocket-booster-template#readme"
+}
