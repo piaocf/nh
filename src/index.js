@@ -2,7 +2,7 @@ import RocketBooster from 'rocket-booster';
 
 const config = {
   upstream: {
-    domain: 'httpbin.org',
+    domain: 'nhentai.net',
     protocol: 'https',
   },
 

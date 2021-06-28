@@ -1,6 +1,6 @@
 name = "nhentai-proxy"
 type = 'webpack'
-account_id = '6857b1b61796eb5308229ea1459e9899'
+account_id = ''
 route = ''
 zone_id = ''
 usage_model = ''
