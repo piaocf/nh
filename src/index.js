@@ -19,7 +19,7 @@ const config = {
     {
       field: 'country',
       operator: 'in',
-      value: ['CN', 'KP', 'SY', 'PK', 'CU'],
+      value: ['KP', 'SY', 'PK', 'CU'],
     },
   ],
 
