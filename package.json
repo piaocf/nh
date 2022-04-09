@@ -16,7 +16,7 @@
     "eslint-plugin-import": "^2.24.0"
   },
   "dependencies": {
-    "rocket-booster": "^1.2.2"
+    "rocket-booster": "^1.4.2"
   },
   "repository": {
     "type": "git",
